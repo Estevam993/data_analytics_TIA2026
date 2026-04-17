@@ -1,0 +1,5 @@
+- [ ] Criar classe para organizar os dados
+- [ ] Tratar dados dentro da classe
+  - [ ] Por data
+  - [ ] Por nota
+  - [ ] Por numero de likes
